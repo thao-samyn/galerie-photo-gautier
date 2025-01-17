@@ -22,7 +22,8 @@
                 '/images/mode/IMG_5416.jpeg',
                 '/images/mode/IMG_5443.jpeg',
                 '/images/mode/IMG_5148.jpeg',
-            ]" />
+            ]"
+             />
 
         <x-carousel category="marketing"
             description="Je propose des photos de marketing percutantes, adaptées à votre image de marque pour renforcer l'impact de vos campagnes et événements."

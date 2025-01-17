@@ -13,15 +13,15 @@
     </div>
     <nav class="hidden lg:block flex-1 md:order-2">
         <ul class="md:flex gap-3">
-            <li class="group"><a href="" class="">mode <div
+            <li class="group"><a href="#mode" class="">mode <div
                         class="bg-black h-[1px] w-0 group-hover:w-full transition-all duration-500"></div></a></li>
-            <li class="group"><a href="" class="">marketing <div
+            <li class="group"><a href="#marketing" class="">marketing <div
                         class="bg-black h-[1px] w-0 group-hover:w-full transition-all duration-500"></div></a></li>
-            <li class="group"><a href="" class="">évènement <div
+            <li class="group"><a href="#evenement" class="">évènement <div
                         class="bg-black h-[1px] w-0 group-hover:w-full transition-all duration-500"></div></a></li>
-            <li class="group"><a href="" class="">production <div
+            <li class="group"><a href="#production" class="">production <div
                         class="bg-black h-[1px] w-0 group-hover:w-full transition-all duration-500"></div></a></li>
-            <li class="group"><a href="" class="">contact <div
+            <li class="group"><a href="#contact" class="">contact <div
                         class="bg-black h-[1px] w-0 group-hover:w-full transition-all duration-500"></div></a></li>
         </ul>
     </nav>
@@ -39,15 +39,15 @@
                 <span class="block w-1 h-5 bg-black transform -rotate-45 absolute"></span>
             </div>
             <ul class="w-full h-full flex flex-col justify-center gap-3">
-                <li class="group"><a href="" class="">mode <div
+                <li class="group"><a href="#mode" class="">mode <div
                             class="bg-black h-[1px] w-0 group-hover:w-full transition-all duration-500"></div></a></li>
-                <li class="group"><a href="" class="">marketing <div
+                <li class="group"><a href="marketing" class="">marketing <div
                             class="bg-black h-[1px] w-0 group-hover:w-full transition-all duration-500"></div></a></li>
-                <li class="group"><a href="" class="">évènement <div
+                <li class="group"><a href="evenement" class="">évènement <div
                             class="bg-black h-[1px] w-0 group-hover:w-full transition-all duration-500"></div></a></li>
-                <li class="group"><a href="" class="">production <div
+                <li class="group"><a href="production" class="">production <div
                             class="bg-black h-[1px] w-0 group-hover:w-full transition-all duration-500"></div></a></li>
-                <li class="group"><a href="" class="">contact <div
+                <li class="group"><a href="contact" class="">contact <div
                             class="bg-black h-[1px] w-0 group-hover:w-full transition-all duration-500"></div></a></li>
             </ul>
         </div>
