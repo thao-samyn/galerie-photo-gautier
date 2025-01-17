@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --fs-300: clamp(0.45rem, 1.39vw, 1.30rem);
+    --fs-400: clamp(0.6rem, 2.08vw, 1.88rem);
+    --fs-500: clamp(0.9rem, 3.12vw, 2.72rem);
+    --fs-700: clamp(1rem, 3vw, 2rem);
+
+    --pd-300: clamp(0.44rem, 0.75vw, 2rem);
+    --pd-400: clamp(0.88rem, 1.5vw, 4rem);
+    --pd-500: clamp(1.32rem, 2.25vw, 6rem);
+    --pd-700: clamp(2rem, 3vw, 9rem);
+
+
+    --img-lg: clamp(150px, 30vw, 500px);
+}
+
